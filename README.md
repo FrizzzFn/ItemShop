@@ -1,5 +1,5 @@
-CID_061_Athena_Commando_F_SkiGirl, 1500
-CID_067_Athena_Commando_F_SkiGirl_CHN, 1500
+CID_033_Athena_Commando_F_Medieval, 1200
+CID_029_Athena_Commando_F_Halloween, 1500
 CID_065_Athena_Commando_F_SkiGirl_FRA, 1500
 na
 na
